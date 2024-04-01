@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 heyyy 
 
+=======
+hello everyone
+>>>>>>> c5010274a2a6e68183ccecf660175eb94fd2289b
